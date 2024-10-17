@@ -3,7 +3,7 @@ Version:	53486
 Release:	2
 Summary:	Use citation keys from a different document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcite
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcite
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcite.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcite.doc.r%{version}.tar.xz
